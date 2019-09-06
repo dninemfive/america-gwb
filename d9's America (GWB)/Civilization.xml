@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_D9_AMERICA_GWB</Type>
+			<Description>TXT_KEY_CIV_D9_AMERICA_GWB_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_UNITEDSTATES</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_D9_AMERICA_GWB_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_D9_AMERICA_GWB_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_D9_AMERICA_GWB</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_D9_AMERICA_GWB</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>D9_AMERICA_GWB_ATLAS</IconAtlas>
+			<AlphaIconAtlas>D9_AMERICA_GWB_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>MapAmerica512.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_D9_AMERICA_GWB_TEXT</DawnOfManQuote>
+			<DawnOfManImage>DOM_Washington.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_UNITED_STATES</DawnOfManAudio>
+			<SoundtrackTag></SoundtrackTag>
+		</Row>
+	</Civilizations>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_35</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_36</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_37</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_38</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_39</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_40</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_41</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_42</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_43</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_44</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_45</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_46</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_47</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_48</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_49</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_50</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_51</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_52</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_53</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_54</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_55</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_56</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_57</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_58</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_59</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_D9_AMERICA_GWB_60</CityName>
+		</Row>
+
+	</Civilization_CityNames>
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<LeaderheadType>LEADER_D9_GWBUSH</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType> <!-- nts: SQL patch for HR changing this to Baptism -->
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_D9_AMERICA_GWB_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<UnitClassType>UNITCLASS_MECHANIZED_INFANTRY</UnitClassType>
+			<UnitType>UNIT_D9_AMERICAN_BRADLEY</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_D9_AMERICA_GWB</CivilizationType>
+			<UnitClassType>UNITCLASS_CARRIER</UnitClassType>
+			<UnitType>UNIT_D9_AMERICAN_NIMITZ</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<!-- Civilization_Start_Along_Ocean --> <!-- yes -->
+	<!-- Civilization_Start_Along_River --> <!-- yes -->
+	<!-- Civilization_Start_Region_Priority --> <!-- marsh -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_D9_AMERICA_GWB</Type>
+			<PrimaryColor>COLOR_PLAYER_D9_AMERICA_GWB_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_D9_AMERICA_GWB_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_D9_AMERICA_GWB_ICON</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>1</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_D9_AMERICA_GWB_BACKGROUND</Type>
+			<Red>0</Red>
+			<Green>0.2196</Green>
+			<Blue>0.3961</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_D9_AMERICA_GWB_DESC">
+		  <Text>American Empire</Text>
+		  <Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_0">
+			<Text>Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_1">
+			<Text>New York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_2">
+			<Text>Los Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_3">
+			<Text>Chicago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_4">
+			<Text>Houston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_5">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_6">
+			<Text>Phoenix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_7">
+			<Text>San Diego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_8">
+			<Text>Dallas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_9">
+			<Text>San Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_10">
+			<Text>Detroit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_11">
+			<Text>San Jose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_12">
+			<Text>Indianapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_13">
+			<Text>San Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_14">
+			<Text>Jacksonville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_15">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_16">
+			<Text>Austin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_17">
+			<Text>Baltimore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_18">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_19">
+			<Text>Milwaukee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_20">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_21">
+			<Text>Nashville-Davidson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_22">
+			<Text>El Paso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_23">
+			<Text>Seattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_24">
+			<Text>Denver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_25">
+			<Text>Charlotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_26">
+			<Text>Fort Worth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_27">
+			<Text>Portland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_28">
+			<Text>Oklahoma City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_29">
+			<Text>Tucson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_30">
+			<Text>New Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_31">
+			<Text>Las Vegas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_32">
+			<Text>Cleveland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_33">
+			<Text>Long Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_34">
+			<Text>Albuquerque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_35">
+			<Text>Kansas City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_36">
+			<Text>Fresno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_37">
+			<Text>Virginia Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_38">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_39">
+			<Text>Atlanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_40">
+			<Text>Sacramento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_41">
+			<Text>Oakland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_42">
+			<Text>Mesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_43">
+			<Text>Tulsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_44">
+			<Text>Omaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_45">
+			<Text>Minneapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_46">
+			<Text>Honolulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_47">
+			<Text>Miami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_48">
+			<Text>Colorado Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_49">
+			<Text>St. Louis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_50">
+			<Text>Wichita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_51">
+			<Text>Santa Ana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_52">
+			<Text>Pittsburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_53">
+			<Text>Arlington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_54">
+			<Text>Cincinnati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_55">
+			<Text>Anaheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_56">
+			<Text>Toledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_57">
+			<Text>Tampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_58">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_59">
+			<Text>St. Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_D9_AMERICA_GWB_60">
+			<Text>Corpus Christi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_0">
+			<Text>Michael</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_1">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_2">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_3">
+			<Text>John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_4">
+			<Text>Robert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_5">
+			<Text>Christopher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_6">
+			<Text>Jennifer</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_7">
+			<Text>Lisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_8">
+			<Text>Kimberly</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_D9_AMERICA_GWB_9">
+			<Text>Michelle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

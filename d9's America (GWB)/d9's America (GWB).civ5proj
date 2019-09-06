@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Deploy" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <ProjectGuid>{a914475b-2a28-4985-8427-dee19946e797}</ProjectGuid>
+    <Name>America (George W. Bush)</Name>
+    <Guid>757f3685-6bd1-470d-99f5-b439bec87e38</Guid>
+    <ModVersion>1</ModVersion>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds America under George W. Bush to the game!
+
+America  - George W. Bush (Shock and Awe): 
+UA: Ranged attacks deal damage t</Teaser>
+    <Description>Adds America under George W. Bush to the game!
+
+America  - George W. Bush (Shock and Awe): 
+UA: Ranged attacks deal damage to adjacent enemy Units and Cities. During Golden Ages, mounted and mechanized land units generate Gold with kills and lower adjacent enemies' Combat Strength.
+UU: Bradley (Mechanized Infantry): While in friendly territory, generates one TOW Missile per turn (max 2). Passively constructs Courthouses in garrisoned cities and defensive Buildings while adjacent to friendly City-States. Counts as a Mechanized Unit for the purposes of the UA. 11% more expensive (415 vs 375).
+	TOW Missile: Ranged unit which is destroyed upon attacking. 35 CS/3 Range. +100% vs Mechanized units.
+UU: Nimitz-Class (Carrier/Supercarrier): Unlocked later, at Robotics. 55 CS (vs 40/55)/5 moves (vs 5/6). Requires Uranium instead of Oil. Double movement in Ocean. Embarked land Units share its movement and may paradrop when stacked. Can hold 4 planes (vs 2/4).</Description>
+    <Authors>dninemfive</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <SupportsMac>true</SupportsMac>
+    <AssemblyName>d9's America (GWB)</AssemblyName>
+    <RootNamespace>d9's America (GWB)</RootNamespace>
+    <ModReferences />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Package Only' ">
+    <PackageMod>true</PackageMod>
+    <DeployMod>false</DeployMod>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Deploy Only' ">
+    <PackageMod>false</PackageMod>
+    <DeployMod>true</DeployMod>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Firaxis\ModBuddy\Civ5Mod.targets" />
+</Project>
