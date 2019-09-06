@@ -2,25 +2,26 @@
 <GameData>
 	<UnitPromotions>
 		<Row>
-			<Type>PROMOTION_D9_KGOSI_ZOC</Type>
-			<Description>TXT_KEY_PROMOTION_D9_KGOSI_ZOC</Description>
-			<Help>TXT_KEY_PROMOTION_D9_KGOSI_ZOC_HELP</Help>
+			<Type>PROMOTION_D9_GWB_GABONUS</Type>
+			<Description>TXT_KEY_PROMOTION_D9_GWB_GABONUS</Description>
+			<Help>TXT_KEY_PROMOTION_D9_GWB_GABONUS_HELP</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<PortraitIndex>59</PortraitIndex> <!-- TODO: change -->
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>TXT_KEY_PROMOTION_D9_KGOSI_ZOC</PediaEntry>
+			<PediaEntry>TXT_KEY_PROMOTION_D9_GWB_GABONUS</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 			<NearbyEnemyCombatMod>-10</NearbyEnemyCombatMod>
 			<NearbyEnemyCombatRange>1</NearbyEnemyCombatRange>
+			<!-- Gold with Kills needs some sort of magic Lua -->
 		</Row>
 	</UnitPromotions>
 	<Language_en_US>
-		<Row Tag="TXT_KEY_PROMOTION_D9_KGOSI_ZOC">
-			<Text>Ignores Zone of Control</Text>
+		<Row Tag="TXT_KEY_PROMOTION_D9_GWB_GABONUS">
+			<Text>Shock and Awe</Text>
 		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_D9_KGOSI_ZOC_HELP">
-			<Text>Ignore enemy Zones of Control.</Text>
+		<Row Tag="TXT_KEY_PROMOTION_D9_GWB_GABONUS_HELP">
+			<Text>Adjacent enemies have 10% less Combat Strength. Gain Gold equal to defeated enemies' base Combat Strength.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>
